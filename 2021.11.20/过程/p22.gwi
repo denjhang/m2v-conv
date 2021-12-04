@@ -1,0 +1,219 @@
+﻿'{
+ ClockCount=192
+}
+
+'Fs1 T125 @1 v108 o5 a64r2r3r96 v102 o3 d+8&d+64& d+64r2r3r8r64r96
+'Fs1 r6r16r192 v108 o4 a16r2r8.r64 r1
+'Fs1 r192o6 a6&a96r4.r32 v121 g+64&g+96r8.r64b3H2&b48r8r192 r1
+'Fs1 o5 b24r2r3r8 r1
+'Fs1 r1 r1
+'Fs1 r1 r1
+'Fs1 r1 r1
+'Fs1 r1 r1
+'Fs1 r1 r1
+'Fs1 r1 r1
+'Fs1 r1 r4r64r96 v102 o6 a16&a24r2r16r24r64
+'Fs1 r1 r1
+'Fs1 r1 r1
+'Fs1 r1 r1
+'Fs1 r2..r64 v108 o6 a32.r16 r3r96f+32.r2r16..
+'Fs1 r2. v115 o6 b24r8r12 r8.. v127 <g+48r8r12 v102 <<g+4&g+24r4r96
+'Fs1 r32r48 v115 o4 a8&a96 v90 >>e12&e192r4r192 v115 <<a8r3r96 r2...r64a32.&
+'Fs1 o4 a16&a96r96 v102 a12r4.r96 v121 >>b24r4.r32 r64g+32.r2...
+'Fs1 r4r6r32o6 b16&b192r3r8r64r96 r1
+'Fs1 r1 r1
+'Fs1 r1 r1
+'Fs1 r1 r1
+'Fs1 r1 r1
+'Fs1 r1 r1
+'Fs1 r1 r1
+'Fs1 r1 r1
+'Fs1 r1 r1
+'Fs1 r1 r1
+'Fs1 r1 r1
+'Fs1 r1 r1
+'Fs1 r2.r24r64 v102 o4 e12&e64r16. r4 v121 >g+12&g+192r2r8r32r192
+'Fs1 r16.o7 c+8&c+12r4r24 v108 c+6&c+96r6r16 r2r3r8r64r96 v102 <a192r96
+'Fs1 r2r64r96o4 e12&e64r4. r48 v115 >>g+32r2.r64 v96 <<e6&e64&
+'Fs1 o4 e96 v90 e32&e192r4r96 v108 >>>c+6&c+64r4r16r64 v121 <<b32&b192r8r48 r4..<a16&a24&a64r96 v96 a16.r192 v102 a8&a48r96a16&a24r96 v108 a16&
+'Fs1 o4 a32.r96 v90 c+24&c+64r96 v102 e32r2r24 v115 >>>c+12&c+32r192c+12&c+64r192c+16&c+64& c+32&c+192r192 v96 c+32&c+48r2r64 v90 <<<e32.r3r96
+'Fs1 r4r6r16r64 v102 o4 c+2&c+192& c+192r96c+2r12r64 v115 >>>c+16&c+24r96 v108 c+16.r96 v115 c+12&c+64r192 v108 c+16&
+'Fs1 o7 c+192r2r48 v121 c+3&c+8&c+64& c+192r2.r6r16r64
+'Fs1 r1 r1
+'Fs1 r2r3r96 v102 o6 c+8&c+32& c+3&c+16&c+192r192c+2&c+16.&
+'Fs1 o6 c+192r16r192 v115 b8..r96b8&b192r3r8r32 v83 <<c+16&c+64& c+3&c+16.r3r8r64r96 v108 c+12&c+192&
+'Fs1 o4 c+3&c+16&c+64r32 v127 >>a3&a8&a96r12r192 r6 v102 <<a16&a24&a64r192 v115 >>c+24&c+64r6r64 v121 >c+16&c+96r6 v127 e16&e24r8
+'Fs1 r8.r64 v121 o5 a8&a192r6a4.&a96r1r1r1r1r1r1r1.r3r8r96
+
+'Fs2 @1 v96 r1 r1
+'Fs2 r6r16r192o4 e16&e192r2r6r32 r1
+'Fs2 r8 v121 o5 b32.r2.r16r64 r1
+'Fs2 r1 r1
+'Fs2 r1 r1
+'Fs2 r1 r1
+'Fs2 r1 r1
+'Fs2 r1 r1
+'Fs2 r1 r1
+'Fs2 r1 r1
+'Fs2 r1 r4r16r96 v115 o6 g+12&g+32r2r16
+'Fs2 r1 r1
+'Fs2 r1 r1
+'Fs2 r1 r1
+'Fs2 r1 r1
+'Fs2 r2. v121 o5 b24r8r12 r1
+'Fs2 r2r8r48o6 b16r4r24 r1
+'Fs2 r2r32r48 v115 o5 b24r4.r32 r64 v121 g+32.r2...
+'Fs2 r4r6r32o5 b16r3r8r32 r1
+'Fs2 r1 r1
+'Fs2 r1 r1
+'Fs2 r1 r1
+'Fs2 r1 r1
+'Fs2 r1 r1
+'Fs2 r1 r1
+'Fs2 r1 r1
+'Fs2 r1 r1
+'Fs2 r1 r1
+'Fs2 r1 r1
+'Fs2 r1 r1
+'Fs2 r2r3r64r96 v108 o6 b32.r16. r4r32r48 v115 g+24r2r8r32
+'Fs2 r2r8r32 v102 o4 a16&a24r192 v121 >a64&a96r8r12 r2r3r8r32>>c+96&
+'Fs2 o7 c+6r4.r32 v108 <b32&b48r4. r32<<<f+6&f+96r2.r24
+'Fs2 r3r32r192 v96 o4 e16&e24&e64r2r96 r4..e8r192 v83 e12&e64r192 v108 e4&e16&e64&
+'Fs2 o4 e32&e48r96 v83 e32&e48r96 v102 c+3&c+8&c+64&c+96r8r64r96 v115 >>b8&b12r192 v102 e64&e96& e12&e64r2r3r16r192
+'Fs2 r2r16r64 v121 o7 c+4&c+6&c+192& c+24&c+64r192 v115 c+2&c+24r16<b6&b32.r192 v102 r16.<<<d48&
+'Fs2 o3 d8&d32r4. v115 >a8&a96r3 r1
+'Fs2 r1 r1
+'Fs2 r2r3r32r192 v102 o4 c+8&c+192& c+3&c+16&c+192r192c+2&c+192r16 v90 a64&a96&
+'Fs2 o4 a12r96 v102 a12r192 v115 a12&a192r96 v108 a8&a48r2r32a24& a16&a96r96 v90 e4&e6&e16r4..
+'Fs2 r4r16 v102 o4 a12&a64r4.r64a6&a32& a32.r3r8r32 v121 >>c+16&c+192r6r192e12&e64r8
+'Fs2 r8.r64 v108 o3 a8&a192r6a4.&a96r1r1r1r1r1r1r1.r3r8r96
+
+'Fs3 @1 v115 r1 r1
+'Fs3 r1 r1
+'Fs3 r1 r1
+'Fs3 r1 r1
+'Fs3 r1 r1
+'Fs3 r1 r1
+'Fs3 r1 r1
+'Fs3 r1 r1
+'Fs3 r1 r1
+'Fs3 r1 r1
+'Fs3 r1 r1
+'Fs3 r1 r1
+'Fs3 r1 r1
+'Fs3 r1 r1
+'Fs3 r1 r1
+'Fs3 r1 r1
+'Fs3 r2r8r64r96o5 b24&b64r4r24 r1
+'Fs3 r1 r48 v102 o3 d+16.r2..r96
+'Fs3 r1 r1
+'Fs3 r1 r1
+'Fs3 r1 r1
+'Fs3 r1 r1
+'Fs3 r1 r1
+'Fs3 r1 r1
+'Fs3 r1 r1
+'Fs3 r1 r1
+'Fs3 r1 r1
+'Fs3 r1 r1
+'Fs3 r1 r1
+'Fs3 r1 r1
+'Fs3 r1 r4r32r48 v108 o3 d+192r96f+16&f+24r2r16r64
+'Fs3 r2.r48 v115 o4 a32.r6r64 r1
+'Fs3 r1 r1
+'Fs3 r3r8r64r96o4 a32&a48r3r8r192 r2r8.r192 v121 >>e4&e24&e64&
+'Fs3 o6 e8&e64&e96r192 v108 e3&e16&e192r4r6 v121 b64&b96& b12&b192r2r3r16r64
+'Fs3 r1 r2..r96 v115 o6 b12&b32&
+'Fs3 o6 b192r2.r6r16r64 r1
+'Fs3 r1 r1
+'Fs3 r2.. v108 o6 e8& e4..r96 v115 <<e4&e6&e16&e64r24r64
+'Fs3 r4.r64 v102 o3 d2&d32&d192r16r96 r4r6r192e2&e192r16r96
+'Fs3 r4r16r64 v90 o6 e16&e96r2r12r64 r1
+'Fs3 r1r1r1r1r1r1r1r1.r3r48
+
+'Fs4 @1 v102 r1 r1
+'Fs4 r1 r1
+'Fs4 r1 r1
+'Fs4 r1 r1
+'Fs4 r1 r1
+'Fs4 r1 r1
+'Fs4 r1 r1
+'Fs4 r1 r1
+'Fs4 r1 r1
+'Fs4 r1 r1
+'Fs4 r1 r1
+'Fs4 r1 r1
+'Fs4 r1 r1
+'Fs4 r1 r1
+'Fs4 r1 r1
+'Fs4 r1 r1
+'Fs4 r1 r1
+'Fs4 r1 r1
+'Fs4 r1 r1
+'Fs4 r1 r1
+'Fs4 r1 r1
+'Fs4 r1 r1
+'Fs4 r1 r1
+'Fs4 r1 r1
+'Fs4 r1 r1
+'Fs4 r1 r1
+'Fs4 r1 r1
+'Fs4 r1 r1
+'Fs4 r1 r1
+'Fs4 r1 r1
+'Fs4 r1 r1
+'Fs4 r1 r1
+'Fs4 r1 r1
+'Fs4 r1 r1
+'Fs4 r1 r16o3 d12r2r3r48
+'Fs4 r1 r2.r6r16r64 v96 o3 f+192
+'Fs4 r1 r1
+'Fs4 r1 r1
+'Fs4 r2r3r16r64 v121 o4 a12&a192& a16&a192r2.r6r64
+'Fs4 r1 r1
+'Fs4 r1 r1
+'Fs4 r1r1r1r1r1r1r1r1.r3r48
+
+'Fs5 @1 v102 r1 r1
+'Fs5 r1 r1
+'Fs5 r1 r1
+'Fs5 r1 r1
+'Fs5 r1 r1
+'Fs5 r1 r1
+'Fs5 r1 r1
+'Fs5 r1 r1
+'Fs5 r1 r1
+'Fs5 r1 r1
+'Fs5 r1 r1
+'Fs5 r1 r1
+'Fs5 r1 r1
+'Fs5 r1 r1
+'Fs5 r1 r1
+'Fs5 r1 r1
+'Fs5 r1 r1
+'Fs5 r1 r1
+'Fs5 r1 r1
+'Fs5 r1 r1
+'Fs5 r1 r1
+'Fs5 r1 r1
+'Fs5 r1 r1
+'Fs5 r1 r1
+'Fs5 r1 r1
+'Fs5 r1 r1
+'Fs5 r1 r1
+'Fs5 r1 r1
+'Fs5 r1 r1
+'Fs5 r1 r1
+'Fs5 r1 r1
+'Fs5 r1 r1
+'Fs5 r1 r1
+'Fs5 r1 r1
+'Fs5 r1 r16r96o3 f+3&f+8&f+96r3r8
+'Fs5 r1 r1
+'Fs5 r1 r1
+'Fs5 r1 r1
+'Fs5 r1 r1
+'Fs5 r1 r1
+'Fs5 r1 r1
+'Fs5 r1r1r1r1r1r1r1r1.r3r48
+
