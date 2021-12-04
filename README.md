@@ -7,7 +7,8 @@
   tmax、tmin 目标音量最大、最小值。如tmax=127，tmin=100  
   vmax、vmin 通道音量最值。这两条必须有区分。如vmax=127，vmin=0.  
   mode 转换模式 mode=0自动模式，mode=1手动模式  
-  
+  vrate 音量比例压缩系数，默认0.1  
+  outname 输出文件名尾缀，如outname=-out  
 ## 手动转换模式菜单
 1.音量修改v  
 2.音高o  
@@ -27,5 +28,7 @@
 3.将v[n]/a得数组va[n]，比例系数数组
 4.将目标音量最大值tmax与最小值tmin求平均数得vma
 5.va[n]*vma=vma[n]
-6.检查vma中的
+6.检查vma[n]中的最大值与最小值，若超出tmax与tmin区间，则执行比例压缩。若出现小数，则四舍五入。
+7.比例压缩子程序。将va[n]中小于1的比例系数加vrate，大于1的减vrate，之后循环执行5-7步骤，直到vma[n]都落入tmax，tmin区间。
+8.将gwi文件中所有vxxx(实际上是v[n])都替换为vma[n]并保存新文件，文件名为原文件名outname。
 ~~~
